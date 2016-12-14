@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Animated Background Headers
 =========
 
@@ -14,3 +15,6 @@ Read more here: [License](http://tympanus.net/codrops/licensing/)
 [© Codrops 2014](http://www.codrops.com)
 
 
+=======
+# Escrow-demo
+>>>>>>> 2706c863b5bec648c8369886513a66a73b7c2c28
